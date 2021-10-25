@@ -1,0 +1,15 @@
+#timer {
+    font-size: 400%;
+}
+#count {
+    font-size: 400%;
+}
+
+#customTimer{
+    display: none;
+    font-size: 200%;
+}
+
+#userInput{
+    width: 200px;
+}
