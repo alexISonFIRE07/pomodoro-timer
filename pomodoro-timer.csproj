@@ -6,7 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\css\style.css" />
     <None Include="wwwroot\images\tomato.jpg" />
+    <None Include="wwwroot\js\counter.js" />
+    <None Include="wwwroot\js\customTimer.js" />
+    <None Include="wwwroot\js\timer.js" />
   </ItemGroup>
 
   <ItemGroup>
